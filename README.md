@@ -171,15 +171,14 @@ Production-grade mission control dashboard processing live data from 8+ sensor c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-six-republic.vercel.app/api?username=murshidr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6fa8&icon_color=1d6fa8&text_color=ffffff" alt="Stats" />
-<img height="165" src="https://github-readme-stats-six-republic.vercel.app/api/top-langs/?username=murshidr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6fa8&text_color=ffffff" alt="Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=murshidr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6fa8&icon_color=1d6fa8&text_color=ffffff" alt="Murshid's GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshidr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d6fa8&text_color=ffffff" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=murshidr&theme=tokyonight&hide_border=true&background=0d1117&ring=1d6fa8&fire=ED5800&currStreakLabel=1d6fa8" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murshidr&theme=tokyonight&hide_border=true&background=0d1117&ring=1d6fa8&fire=ED5800&currStreakLabel=1d6fa8" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ## 📬 Let's Connect
